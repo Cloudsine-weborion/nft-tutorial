@@ -1,0 +1,11 @@
+{
+    "description": "Welcome to nodesine.com.",
+    "external_url": "nodesine.com",
+    "image": "https://ipfs.nodesine.com/ipfs/QmQyyjgYquKeA2FS7K8bM8rWYvHto3VAQge4feMd28rwJN",
+    "name": "MyNFT",
+    "attributes": [
+        {
+            "value": "Welcome to use nodesine"
+        }
+    ]
+}
